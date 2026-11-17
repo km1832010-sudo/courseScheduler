@@ -1,0 +1,127 @@
+Course Name:,CourseID: ,Credits:,Difficulty:,Prerequisite to:
+Arabic:,,,,
+Arabic Language & Culture I,AFL 101,1,1,AFL 201
+Arabic Language & Culture II,AFL 201,1,2,AFL 301
+Arabic Language & Culture III,AFL 301,1,3,ARA 101
+Arabic Literature and Expression I,ARA 101,1,1,ARA 102
+Arabic Literature and Expression II,ARA 102,1,1,ARA 104
+Intro to Arabic Literary Genres,ARA 104,1,1,ARA 201
+Arabic Literary Appreciation,ARA 201,1,2,"ARA 301,ARA 410"
+Arabic Lingual & Literary Studies,ARA 301,1,3,"ARA 410,ARA 405"
+Accelerated Arabic Lit. & Cultural Studies (A' Level),ARA 410,1,4,"ARA 405,ARA 403"
+Women in the Middle East and the World,ARA 405,0.5,4,ARA 406
+Discourse Analysis,ARA 403,0.5,4,ARA 404
+Journalism and Media,ARA 404,0.5,4,
+Middle Eastern Issues in Cinema,ARA 406,0.5,4,
+Colloqiual Arabic,AFL 102,1,1,
+English:,,,,
+Intro to English Literary Genres,ENG 101,1,1,ENG 201
+Arabic Literature in a Global Context,ENG 201,1,2,"ENG 301,ENG 302,ENG 501"
+Analyzing the World Through Literature,ENG 302,1,3,"ENG 501,ENG 502,ENG 402,ENG 403,ENG 404,ENG 405"
+Acc. Intro to English Literary Genres,ENG 102,1,1,ENG 202
+Acc. Arabic Lit in a Global Context,ENG 202,1,2,ENG 501
+AP English Language & Composistion,ENG 501,1,5,ENG 502
+AP English Literature & Composition,ENG 502,1,5,
+English Composition & Analytical Reading I,ENG 301,1,3,"ENG 401,ENG 402,ENG 403,ENG 404,ENG 405"
+English Composition & Analytical Reading II,ENG 401,1,4,
+Historcial Fiction,ENG 402,1,4,
+The Art of Poetry,ENG 403,1,4,
+Journalism & the Nonfiction Novel,ENG 404,1,4,
+Transformations in Communication & Culture,ENG 405,1,4,
+English Language & Composistion I,ENG 100,1,1,
+English Language & Composistion II,ENG 200,1,2,
+Math:,,,,
+Integrated Math(Conceptual),MCT 101,1,1,"MCT 201,MCT 202,MCT 203"
+Integrated Math,MCT 102,1,1,"MCT 201,MCT 202,MCT 203"
+Integrated Math(Accelerated),MCT 103,1,1,"MCT 201,MCT 202,MCT 203"
+Algebra II(Conceptual),MCT 201,1,2,"MCT 302,MCT 301,MCT 503"
+Algebra II,MCT 202,1,2,"MCT 302,MCT 301,MCT 503"
+Algebra II(Accelerated),MCT 203,1,2,"MCT 302,MCT 301,MCT 503"
+Introductory Statistics,MCT 302,1,3,MCT 502
+AP Statistics,MCT 502,1,5,
+Pre-Calculus,MCT 301,1,3,"MCT 551,MCT 501,MCT 401"
+AP Pre-Calculus,MCT 503,1,5,"MCT 551,MCT 501,MCT 401"
+Calculus,MCT 401,1,4,
+AP Calculus AB,MCT 501,1,5,MCT 551
+AP Calculus BC,MCT 551,1,5,MCT 601
+Multivariable Calculus,MCT 601,1,6,MCT 602
+Linear Algebra,MCT 602,1,6,
+Intro to Computer Science,MCT 121,1,1,MCT 522
+AP CSP,MCT 521,1,5,
+AP CSA,MCT 522,1,5,MCT 622
+Topics in College Level Computing,MCT 622,1,6,
+Sciences:,,,,
+Integrated Science,SCI 102,1,1,"BIO 401,CHM 401,PHY 401,AST 301,SCI 201"
+Integrated Science(Accelerated),SCI 103,1,1,"BIO 401,CHM 401,PHY 401,AST 301,SCI 201"
+Accelerared Biology,BIO 401,1,4,BIO 501
+AP Biology,BIO 501,1,5,BIO 601
+Neuroscience,BIO 601,1,6,
+Accelerared Chemistry,CHM 401,1,4,CHM 501
+AP Chemistry,CHM 501,1,5,
+Accelerated Physics,PHY 401,1,4,"PHY 501,PHY 551"
+AP Physics I: Algebra-Based,PHY 501,1,5,EGD 601
+AP Physics C: Mechanics,PHY 551,1,5,EGD 601
+Engineering Design,EGD 601,1,6,
+Astronomy,AST 301,1,3,
+Enviromental Science,SCI 201,1,2,
+Intro to Robotics,EGD 101,0.5,1,
+Aeronautical Engineering,EGD 102,0.5,1,
+Art:,,,,
+2D/3D Design,VPA 103,1,1,VPA 301
+Ceramics,VPA 102,0.5,1,
+Drawing,VPA 101,0.5,1,VPA 201
+Painting,VPA 201,0.5,2,VPA 301
+Studio Art,VPA 301,1,3,VPA 501
+AP Art and Design,VPA 501,1,5,
+Introduction to Dance,DAN 101,1,1,"DAN 301,DAN 302"
+Introduction to Dabkeh,DAN 102,1,1,"DAN 301,DAN 302"
+Dance Ensemble,DAN 301,1,3,
+Dabkeh Ensemble,DAN 302,1,3,
+Introduction to Strings,MUS 101,1,1,MUS 201
+Intermidate Strings,MUS 201,1,2,MUS 301
+Strings Ensemble,MUS 301,1,3,MUS 401
+Guirar Orchesta,MUS 302,1,3,
+Orchestra,MUS 401,1,4,
+Introduction to Guitar,MUS 102,1,1,MUS 302
+Introduction to Winds and Brass,MUS 103,0.5,1,MUS 303
+Winds and Brass Ensemble,MUS 303,0.5,3,
+Piano,MUS 104,0.5,1,
+Digital Music Production I,MUS 105,1,1,MUS 205
+Digital Music Production II,MUS 205,1,2,
+Introduction to Theater,THE 101,0.5,1,THE 201
+Scene Study,THE 201,1,2,
+Languages:,,,,
+French I,WLF 101,1,1,WLF 201
+French II,WLF 201,1,2,WLF 301
+French III,WLF 301,1,3,WLF 401
+French IV,WLF 401,1,4,WLF 501
+AP French,WLF 501,1,5,
+Spanish I,WLS 101,1,1,WLS 201
+Spanish II,WLS 201,1,2,WLS 301
+Spanish III,WLS 301,1,3,WLS 401
+Spanish IV,WLS 401,1,4,WLS 501
+AP Spanish,WLS 501,1,5,
+Chinese IV,WLC 401,1,4,WLC 501
+Intensive Chinese,WLC 402,1,4,
+AP Chinese,WLC 501,1,5,
+History:,,,,
+Ancient & Classical Worlds,HRS 101,1,1,HRS 201
+A History of the Modern World,HRS 201,1,2,"HRS 301,HRS 302,HRS 404,HRS 501,HRS 502,HRS 503,HRS 504,HRS 505,HRS 506,HRS 507,HRS 509,HRS 555,HRS 601"
+Introduction to Political Science,HRS 301,1,3,
+Business Systems & Management,HRS 302,1,3,
+The Modern Middle East,HRS 404,1,4,
+AP Comparative Government & Politics,HRS 501,1,5,
+AP Economics,HRS 502,1,5,
+AP Psychology,HRS 503,1,5,
+AP Human Geography,HRS 504,1,5,
+AP Capstone Seminar,HRS 505,1,5,
+AP World History,HRS 506,1,5,
+AP US History,HRS 507,1,5,
+AP European History,HRS 509,1,5,
+AP Capstone Research,HRS 555,1,5,
+Interdisciplinary Study of Palestine,HRS 601,1,6,
+Islamic:,,,,
+Islamic Studies I,HRS 100,0.5,1,HRS 200
+ Islamic Studies II,HRS 200,0.5,2,HRS 300
+Islamic Studies III,HRS 300,0.5,3,HRS 400
+Islamic Studies IV,HRS 400,0.5,4,
